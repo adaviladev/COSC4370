@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: Two or more files with the name of dummy.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Dependencies\glm\core\dummy.cpp, Dependencies\glm\detail\dummy.cpp.
+  glm.cpp
+  dummy.cpp
+  Generating Code...
+Debug\dummy.obj : warning LNK4042: object specified more than once; extras ignored
+main.obj : error LNK2005: _main already defined in dummy.obj
+C:\Users\hackeysack09\Code\UH\cosc4370\hw2\shaders4\shaders4\Debug\shaders4.exe : fatal error LNK1169: one or more multiply defined symbols found

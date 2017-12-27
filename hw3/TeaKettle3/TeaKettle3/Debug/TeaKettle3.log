@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\hackeysack09\code\uh\cosc4370\hw3\teakettle3\teakettle3\main.cpp(73): warning C4473: 'fprintf' : not enough arguments passed for format string
+  c:\users\hackeysack09\code\uh\cosc4370\hw3\teakettle3\teakettle3\main.cpp(73): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\hackeysack09\code\uh\cosc4370\hw3\teakettle3\teakettle3\main.cpp(73): note: the missing variadic argument 2 is required by format string '%s'
+  TeaKettle3.vcxproj -> C:\Users\hackeysack09\Code\UH\cosc4370\hw3\TeaKettle3\Debug\TeaKettle3.exe
+  TeaKettle3.vcxproj -> C:\Users\hackeysack09\Code\UH\cosc4370\hw3\TeaKettle3\Debug\TeaKettle3.pdb (Partial PDB)
